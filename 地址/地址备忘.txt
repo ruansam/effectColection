@@ -1,0 +1,4 @@
+flashplayer地址 C:\Windows\System32\Macromed\Flash
+host文件地址 C:\Windows\System32\drivers\etc
+
+效果网站http://www.flashandmath.com/
